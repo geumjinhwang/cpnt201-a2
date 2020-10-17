@@ -5,6 +5,11 @@
 ## [GitHub Repo](https://github.com/geumjinhwang/cpnt201-a2)
 ## [GitHub Link](https://geumjinhwang.github.io/cpnt201-a2/)
 
+## **Summery**
+### The blog post is about 5 steps to mental wellbeing. Evidence suggests there are 5 steps you can take to improve your mental health and wellbeing. Trying these things could help you feel more positive and able to get the most out of life.
+
+- Website Link https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/
+
 ### - Sources of images for the blog post  (https://unsplash.com)
 
 ### - Google fonts
