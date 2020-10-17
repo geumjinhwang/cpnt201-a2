@@ -1,6 +1,6 @@
 # SAIT Web Development 2020
 
-## CPNT260 Final Project: 5-page Static Website
+## CPNT201 Assignment 2: Blog Home Page
 ### *Jina Hwang*
 ## [GitHub Repo](https://github.com/geumjinhwang/cpnt201-a2)
 ## [GitHub Link](https://geumjinhwang.github.io/cpnt201-a2/)
